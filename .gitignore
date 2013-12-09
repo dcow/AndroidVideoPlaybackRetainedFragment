@@ -1,0 +1,44 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+doc/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse settings
+org.eclipse.jdt.core.prefs
+
+# OS X
+.DS_Store
+
+# JUnit report
+junit-report.xml
+junit/
+
+# Gradle
+build/
+.gradle/
+
+# Android Studio / IntelliJ IDEA
+.idea
+*.iml
+
+# git version
+inkling-android/src/main/assets/version.json
+
+# ui test
+inkling-android-ui-test/build.xml
+inkling-android-ui-test/local.properties
+inkling-android-ui-test/project.properties
+inkling-android-ui-test/bin
